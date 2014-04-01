@@ -19,6 +19,7 @@ import javax.servlet.http.HttpSession;
  */
 public class AktivacijaKorisnika extends HttpServlet {
 
+    //adsasdasdasd
    
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException, SQLException {
