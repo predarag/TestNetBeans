@@ -1,4 +1,3 @@
-
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -43,6 +42,8 @@
     <!-- Main Blog Content -->
     <div class="large-9 columns" role="content">
 
+
+    <!-- Nece da puluje,proba jebenaaaa -->
       <article>
           
           <form name="forma" action="AktivacijaKorisnika">
