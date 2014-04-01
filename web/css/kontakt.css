@@ -1,0 +1,150 @@
+.container tr .body table tr td table tr .welcome table tr td table tr td #formWrap 
+{
+	background-color:#CCC;
+	width:500px;
+	margin-top:30px;
+	background:#fff;
+	border:1px solid #f1f1f1;
+	-moz-border-radius:20px;
+	-moz-border-shadow:2px 2px 5px #999;
+	-webkit-border-radius:20px;
+	-webkit-border-shadow:2px 2px 5px #999;
+	padding:16px 10px 40px;
+}
+
+
+.container tr .body table tr td table tr .welcome table tr td table tr td #formWrap #form 
+{
+	border-top:1px solid #EEE;
+	width:500px;
+}
+
+
+.container tr .body table tr td table tr .welcome table tr td table tr td #formWrap #form .red 
+{
+	border-bottom:1px dotted #EEE;
+	display:block;
+	line-height:38px;
+	overflow:auto;
+	padding:24px 0px;
+	width:100%;
+}
+
+
+.container tr .body table tr td table tr .welcome table tr td table tr td #formWrap #form .red .label 
+{
+	font-size:16px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	width:150px;
+	text-align:right;
+	float:left;
+	padding-right:10px;
+	margin-right:10px;
+}
+
+
+.container tr .body table tr td table tr .welcome table tr td table tr td #formWrap #form .red .input 
+{
+	float:left;
+	margin-right:10px;
+	width:200px;
+}
+
+
+.container tr .body table tr td table tr .welcome table tr td table tr td #formWrap #form #posalji 
+{
+	font-family:Arial, Helvetica, sans-serif;
+	margin:25px;
+	margin-left:167px;
+	color:#000;
+	text-shadow:1px 1px 1px #999;
+	font-size:16px;
+}
+.container tr .body table tr td table tr .welcome table tr td table tr td form #formWrap #form table tr td #reset 
+{
+	font-family:Arial, Helvetica, sans-serif;
+	margin:25px;
+	margin-left:0px;
+	color:#000;
+	text-shadow:1px 1px 1px #999;
+	font-size:16px;
+	padding:10px;	
+}
+
+
+.detail
+{
+	width:260px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	padding:7px 8px;
+	margin:0;
+	display:block;
+	border-radius:5px 5px 5px 5px;
+	background:#e9e9e9;
+	border: 1px solid #ccc;
+	
+}
+
+.detail:focus
+{
+	background:#FFF;
+	border:1px solid #999;
+	outline:none;
+}
+
+.mess:focus
+{
+	background:#FFF;
+	border:1px solid #999;
+	outline:none;
+}
+
+.mess
+{
+	width:450px;
+	max-width:300px;
+	height:290px;
+	overflow:auto;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	padding:7px 8px;
+	line-height:1em;
+	margin:0;
+	display:block;
+	border-radius:5px 5px 5px 5px;
+	background:#e9e9e9;
+	border: 1px solid #ccc;
+	
+	
+}
+
+textarea
+{
+	resize:none;
+}
+
+.context
+{
+	color:#999;
+	font-size:11px;
+	font-style:italic;
+	line-height:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	width:200px;
+	float:left;
+	margin-left:170px;
+}
+
+span.error
+{
+	color:#000;
+	display:block;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-image:url(../images/x.png);
+	background-repeat:no-repeat;
+	background-position:left 6px;
+	padding-left:25px;
+}
